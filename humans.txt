@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bill McGirr	b@gmail.com
 
 # THANKS
 
