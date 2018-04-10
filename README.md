@@ -1,5 +1,7 @@
 # Starter Web Project
 	adding some text
+	
+	Adding more text to test rebase
 ## Introduction
 
 This repository is for showing how Git and GitHub work
