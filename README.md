@@ -14,3 +14,4 @@ ajksdfkasdfjasdfkjasdfk
 	Please fork, etc
 ## Copyright
 Git training 2018
+All rights reserved
