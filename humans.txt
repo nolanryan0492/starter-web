@@ -8,6 +8,7 @@
 # THANKS
 
     Bill McGirr
+	LaRae McGirr
 
 # TECHNOLOGY COLOPHON
 
